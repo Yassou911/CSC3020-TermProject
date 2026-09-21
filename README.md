@@ -12,4 +12,4 @@ The Weather Dashboard is a web application designed to provide users with real-t
 ## Setup Instructions
 *(Placeholder section - will be updated in future milestones)*
 
-Confluence: https://yassou39.atlassian.net/wiki/spaces/OOP/pages/65726/CSC3020+Term+Project+Milestone
+##Confluence: https://yassou39.atlassian.net/wiki/spaces/OOP/pages/65726/CSC3020+Term+Project+Milestone

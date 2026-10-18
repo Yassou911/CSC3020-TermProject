@@ -14,3 +14,6 @@ The Weather Dashboard is a web application designed to provide users with real-t
 
 ## Confluence:
 https://yassou39.atlassian.net/wiki/spaces/OOP/pages/65726/CSC3020+Term+Project+Milestone
+
+## Updated Confluence:
+Milestone 2: Added Docker setup. See (https://yassou39.atlassian.net/wiki/spaces/OOP/pages/edit-v2/8945665?draftShareId=af3dadcc-8d3f-4937-bdf0-54af6f57ad6d) for details.
